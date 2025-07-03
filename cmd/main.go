@@ -1,5 +1,10 @@
 package main
 
+import (
+	"fmt"
+	"gocodewars"
+)
+
 func main() {
-	// code
+	fmt.Println(gocodewars.Litres(5))
 }
